@@ -1,0 +1,6 @@
+{
+  "name": "Circuloop - Battery Circular Economy & Grading Platform",
+  "description": "Enterprise circular battery lifecycle tracking, Extended Producer Responsibility (EPR) compliance, and empirical state-of-health grading platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
